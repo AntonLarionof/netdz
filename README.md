@@ -1,5 +1,5 @@
-# ![photo](IMG_0042.jpg) 
-# Hello, my name is Anton
-## I study in netology
-### I work in the transport industry
-#### I love summer
+## ** О себе**
+* Меня зовут Антон
+* Живу в городе Пенза
+* Люблю лето и путешествия
+* Я учусь в Нетологии на проффесию Тестировщик ПО
